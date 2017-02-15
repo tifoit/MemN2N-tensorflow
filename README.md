@@ -15,9 +15,9 @@ This code requires [Tensorflow](https://www.tensorflow.org/). There is a set of 
 Usage
 -----
 
-To train a model with 6 hops and memory size of 100, run the following command:
+To train a model with 8 hops and memory size of 200, run the following command:
 
-    $ python main.py --nhop 6 --mem_size 200
+    $ python main.py --nhop 8 --mem_size 200
 
 To see all training options, run:
 
