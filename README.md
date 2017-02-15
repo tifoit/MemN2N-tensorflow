@@ -17,7 +17,7 @@ Usage
 
 To train a model with 6 hops and memory size of 100, run the following command:
 
-    $ python main.py --nhop 6 --mem_size 100
+    $ python main.py --nhop 6 --mem_size 200
 
 To see all training options, run:
 
